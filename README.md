@@ -15,6 +15,7 @@ A curated list of “Temporally Language Grounding” and related area
 
 ### Survey
 * [The Elements of Temporal Sentence Grounding in Videos: A Survey and Future Directions](https://arxiv.org/abs/2201.08071) - H. Zhang et al, `arxiv 2022`.
+* [A survey on temporal sentence grounding in videos](https://dl.acm.org/doi/abs/10.1145/3532626) - X. Lan et al, `ACM TOMM 2021`
 
 ### Before
 * [Grounded Language Learning from Video Described with Sentences](https://www.aclweb.org/anthology/P13-1006/) - H. Yu et al, `ACL 2013`. 
@@ -107,6 +108,7 @@ Weakly Supervised:
 * [Mad: A scalable dataset for language grounding in videos from movie audio descriptions](https://openaccess.thecvf.com/content/CVPR2022/html/Soldan_MAD_A_Scalable_Dataset_for_Language_Grounding_in_Videos_From_CVPR_2022_paper.html) - M. Solden et al. `CVPR 2022`
 
 ## Dataset
+* [MAD](https://github.com/Soldelli/MAD) - 2022
 * [TACoS](https://www.mendeley.com/catalogue/script-data-attributebased-recognition-composite-activities/)
 * [Charades-STA](http://arxiv.org/abs/1705.02101)
 * [ActivityNet](http://arxiv.org/abs/1705.00754)
